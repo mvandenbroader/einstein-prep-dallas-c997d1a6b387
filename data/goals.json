@@ -3,13 +3,13 @@
     "quarter": "Q3 2026",
     "quarterStart": "2026-08-01",
     "quarterEnd": "2026-10-31",
-    "generatedFor": "2026-08-24",
+    "generatedFor": "2026-08-31",
     "sourceLastGenerated": "2026-08-04T00:00:00"
   },
   "branch": {
     "id": "dallas",
     "name": "Dallas",
-    "lastSync": "2026-08-18"
+    "lastSync": "2026-09-01"
   },
   "managers": [
     {
@@ -25,11 +25,11 @@
             "green": "100% manager sandbox by 8/19. 100% movers enrolled 8/20. 70%+ enrolled movers complete through stage 4 by EOQ.",
             "red": "Less than 70% of enrolled movers complete through stage 4 by EOQ."
           },
-          "status": "super_green",
-          "currentValue": "SOP training not yet complete. Movers go live Thursday.",
-          "notes": "Beattie still needs to complete SLP training and upload screenshot to delegation board pulse by 8/20. Movers go live Thursday. Landon and Ty already done.",
-          "nextAction": "Complete SLP training + upload screenshot by 8/20",
-          "lastUpdated": "2026-08-18"
+          "status": "green",
+          "currentValue": "Trending SG -- head start on enrollment, Leads lagging",
+          "notes": "Beattie self-report 9/1: Got with FM about checking on team, brought up at morning huddle multiple days for LIT and Leads. Plan: check with FM, then help him push through pending reviews. Says trending SG due to head start but Leads need to get on track.",
+          "nextAction": "Get Leads through training; help FM clear review backlog",
+          "lastUpdated": "2026-09-01"
         },
         {
           "id": 2,
@@ -40,10 +40,10 @@
             "red": "Less than 100% to quarterly sales goal"
           },
           "status": "super_green",
-          "currentValue": "72% of monthly goal, 33% of quarterly goal",
-          "notes": "Ahead of pace. Weekly target $2,400. Killing it per Mike.",
-          "nextAction": "Maintain pace; $2,400 this week",
-          "lastUpdated": "2026-08-18"
+          "currentValue": "135% of August goal ($23,787 booked)",
+          "notes": "Beattie self-report 9/1: Hit 135% of August goal. No bookings 8/24-8/28 but was already over. SG for August.",
+          "nextAction": "Maintain pace into September",
+          "lastUpdated": "2026-09-01"
         },
         {
           "id": 3,
@@ -57,7 +57,7 @@
           "currentValue": "",
           "notes": "Blocked until Brian rolls out Scrum University. Landon confirmed team has been waiting a long time.",
           "nextAction": "Waiting on Brian",
-          "lastUpdated": "2026-08-18"
+          "lastUpdated": "2026-09-01"
         },
         {
           "id": 4,
@@ -67,25 +67,25 @@
             "green": "Branch average total score 7 or higher (no individual score below 6)",
             "red": "Branch average total score less than 7"
           },
-          "status": "blocked",
-          "currentValue": "",
-          "notes": "Blocked until Madison pushes Games dashboard live. Still pending as of 8/18.",
-          "nextAction": "Monitor Madison for Games dashboard activation",
-          "lastUpdated": "2026-08-18"
+          "status": "red",
+          "currentValue": "Red, close to Green. Low scores: reviews and damages.",
+          "notes": "Beattie self-report 9/1: Checked Command Center -- low scores are reviews and damages. Initiated process to improve each. Plan: start issuing warnings for 4+ damages, set up tracking on PL. Self-assesses R but close to G.",
+          "nextAction": "Issue warnings for 4+ damages; set up damage tracking on PL",
+          "lastUpdated": "2026-09-01"
         },
         {
           "id": 5,
-          "name": "BM Flex Goal",
+          "name": "BM Flex Goal (Limit OT)",
           "thresholds": {
-            "superGreen": "BM flex goal defined and approved by RGNL by AUG 15. Approved Super Green goal met by EOQ.",
-            "green": "BM flex goal defined and approved by RGNL by AUG 30. Approved Green goal met by EOQ.",
-            "red": "Flex goal undefined by AUG 30 or approved Green goal not met."
+            "superGreen": "3 or fewer weeks with over 30 OT hours across team",
+            "green": "4 to 5 weeks with over 30 OT hours across team",
+            "red": "Over 5 weeks with over 30 OT hours across team"
           },
-          "status": "at_risk",
-          "currentValue": "Not yet defined -- missed SG deadline 8/15",
-          "notes": "SG deadline was 8/15 -- missed. Must define by 8/21 for Green (deadline 8/30). Beattie mentioned contract efficiency training or reviews/QR codes as ideas but has not committed.",
-          "nextAction": "Define flex goal with red/green/SG lines by 8/21",
-          "lastUpdated": "2026-08-18"
+          "status": "red",
+          "currentValue": "Red -- behind on OT, trending toward Green",
+          "notes": "Beattie self-report 9/1: Pivoted from On-Site Visits to Limit OT end of last week. Set SG/G/R range since multiple weeks already in (backlogged). Plan: determine OT metrics and aim for G/SG. Definitions confirmed on board pulse 9/1.",
+          "nextAction": "Track OT hours by week; push toward Green trajectory",
+          "lastUpdated": "2026-09-01"
         }
       ],
       "weeklyFocus": [
@@ -128,6 +128,21 @@
               "notes": "Missed SG deadline 8/15. Must commit by 8/21. Ideas: contract efficiency training, reviews/QR codes."
             }
           ]
+        },
+        {
+          "weekOf": "2026-08-31",
+          "items": [
+            {
+              "description": "Update PL and issue warnings for 4+ damages",
+              "completed": null,
+              "notes": "Initiated process to improve damages score. Set up tracking on PL."
+            },
+            {
+              "description": "Determine OT metrics for flex goal -- aim for G/SG",
+              "completed": null,
+              "notes": "Pivoted flex goal to Limit OT. Definitions set but needs to hash out with Mike."
+            }
+          ]
         }
       ]
     },
@@ -144,11 +159,11 @@
             "green": "100% manager sandbox by 8/19. 100% movers enrolled 8/20. 70%+ enrolled movers complete through stage 4 by EOQ.",
             "red": "Less than 70% of enrolled movers complete through stage 4 by EOQ."
           },
-          "status": "super_green",
-          "currentValue": "Managers activated to preview. Movers enrolled centrally 8/20.",
-          "notes": "Landon absent from 8/18 sync. SOP training deadline 8/20. Movers go live Thursday.",
-          "nextAction": "Complete SOP training; present at Training Day 8/14",
-          "lastUpdated": "2026-08-18"
+          "status": "red",
+          "currentValue": "Red -- morning huddle announcements started, checking in at yard",
+          "notes": "Landon self-report 9/1: Checking in with movers at yard, started regular morning huddle announcements. Plan: focus primarily on Leads to make sure they are not blowing it off. Self-assesses Red.",
+          "nextAction": "Get all Leads through app training first",
+          "lastUpdated": "2026-09-01"
         },
         {
           "id": 2,
@@ -159,10 +174,10 @@
             "red": "Less than 100% to quarterly sales goal"
           },
           "status": "red",
-          "currentValue": "Behind pace -- needs $7,383 to hit monthly target",
-          "notes": "Mike flagged Landon needs to catch up. Absent from sync so no plan discussed.",
-          "nextAction": "Sales catch-up; relay targets to Landon",
-          "lastUpdated": "2026-08-18"
+          "currentValue": "Red -- $11,466 booked last week, missed August goal",
+          "notes": "Landon self-report 9/1: Booked $11,466 last week. Did not hit August goal -- cited RDO days and lower call volume. Self-assesses Red.",
+          "nextAction": "Sales catch-up in September",
+          "lastUpdated": "2026-09-01"
         },
         {
           "id": 3,
@@ -176,7 +191,7 @@
           "currentValue": "",
           "notes": "Blocked until Brian rolls out. Landon expressed frustration with wait.",
           "nextAction": "Waiting on Brian",
-          "lastUpdated": "2026-08-18"
+          "lastUpdated": "2026-09-01"
         },
         {
           "id": 4,
@@ -186,25 +201,25 @@
             "green": "Branch Samsara score 7 or higher",
             "red": "Branch Samsara score less than 7"
           },
-          "status": "blocked",
-          "currentValue": "",
-          "notes": "Blocked until Madison pushes Games dashboard live. Still pending as of 8/18.",
-          "nextAction": "Monitor Games dashboard activation",
-          "lastUpdated": "2026-08-18"
+          "status": "green",
+          "currentValue": "Games score 7, Driver Safety 91",
+          "notes": "Landon self-report 9/1: EMC Games score 7, Driver Safety dashboard 91. Landon confused between the two metrics -- QG tracks Fleet Games (score 7 = Green per thresholds). Stayed on top of guys with immediate coaching via Slack. Plan: continue what has been working.",
+          "nextAction": "Continue immediate coaching; clarify Games vs Driver Safety tracking",
+          "lastUpdated": "2026-09-01"
         },
         {
           "id": 5,
-          "name": "OPS Flex Goal",
+          "name": "OPS Flex Goal (Reduce Damages)",
           "thresholds": {
-            "superGreen": "OPS flex goal defined and approved by RGNL by AUG 15. Approved Super Green goal met by EOQ.",
-            "green": "OPS flex goal defined and approved by RGNL by AUG 30. Approved Green goal met by EOQ.",
-            "red": "Flex goal undefined by AUG 30 or approved Green goal not met."
+            "superGreen": "$30k or less in quarterly damages",
+            "green": "$30-40k in quarterly damages",
+            "red": "$40k or more in quarterly damages"
           },
-          "status": "at_risk",
-          "currentValue": "Not yet defined -- missed SG deadline 8/15",
-          "notes": "SG deadline was 8/15 -- missed. Landon absent from 8/18 sync. Must define by 8/30 for Green. Previously mentioned OOT/overnight bad-driver policy.",
-          "nextAction": "Define flex goal when Landon returns",
-          "lastUpdated": "2026-08-18"
+          "status": "red",
+          "currentValue": "Red -- ~$20k+ QTD already, definitions pending approval",
+          "notes": "Landon self-report 9/1: Originally proposed On-Site Evals (took from Beattie). Mike forced rework: onsites are the mechanism, not the goal -- need $ targets. Mike recommended: SG <=30k, G 30-40k, R >=40k. Already at ~20k QTD. Pending final approval.",
+          "nextAction": "Confirm damage $ definitions with Mike; begin weekly tracking",
+          "lastUpdated": "2026-09-01"
         }
       ],
       "weeklyFocus": [
@@ -252,6 +267,21 @@
               "notes": "Landon behind on praise logging. Must submit consistently."
             }
           ]
+        },
+        {
+          "weekOf": "2026-08-31",
+          "items": [
+            {
+              "description": "Get spare keys from RUSH for multiple trucks",
+              "completed": null,
+              "notes": "Priority 1 this week per Landon."
+            },
+            {
+              "description": "Replace tampered card readers",
+              "completed": null,
+              "notes": "Priority 2 this week per Landon."
+            }
+          ]
         }
       ]
     },
@@ -268,11 +298,11 @@
             "green": "100% manager sandbox by 8/19. 100% movers enrolled 8/20. 70%+ enrolled movers complete through stage 4 by EOQ.",
             "red": "Less than 70% of enrolled movers complete through stage 4 by EOQ."
           },
-          "status": "super_green",
-          "currentValue": "Managers activated to preview. Movers enrolled centrally 8/20.",
-          "notes": "Tabi completed SOP training. Needs to upload screenshot to delegation board pulse by 8/20. Movers go live Thursday.",
-          "nextAction": "Upload SOP screenshot to delegation board pulse by 8/20",
-          "lastUpdated": "2026-08-18"
+          "status": "red",
+          "currentValue": "Red -- reminding crew in morning meetings and Slack",
+          "notes": "Tabi self-report 9/1: Making mover app a focal point in morning meetings. Plan: keep reminding team in meetings and Slack. Self-assesses Red.",
+          "nextAction": "Continue morning meeting reminders; push via Slack",
+          "lastUpdated": "2026-09-01"
         },
         {
           "id": 2,
@@ -286,7 +316,7 @@
           "currentValue": "REMOVED -- FM does not have sales goal",
           "notes": "Mike flagged during sync: \"Why does it have individual sales goal listed for you? You do not have sales.\" Removing from QG.",
           "nextAction": "Remove from QG reference pulse on Monday board",
-          "lastUpdated": "2026-08-18"
+          "lastUpdated": "2026-09-01"
         },
         {
           "id": 3,
@@ -300,7 +330,7 @@
           "currentValue": "",
           "notes": "Blocked until Brian rolls out.",
           "nextAction": "Waiting on Brian",
-          "lastUpdated": "2026-08-18"
+          "lastUpdated": "2026-09-01"
         },
         {
           "id": 4,
@@ -310,25 +340,25 @@
             "green": "Branch Damage and Review scores both 7 or higher",
             "red": "Either Damage or Review score below 7"
           },
-          "status": "blocked",
-          "currentValue": "",
-          "notes": "Blocked until Madison pushes Games dashboard live. Still pending as of 8/18.",
-          "nextAction": "Monitor Games dashboard activation",
-          "lastUpdated": "2026-08-18"
+          "status": "red",
+          "currentValue": "Red for both damages and reviews",
+          "notes": "Tabi self-report 9/1: Redirected conversations with high-damage movers last week. Plan: develop system for identifying high-risk movers more quickly. Self-assesses Red for both damages and reviews.",
+          "nextAction": "Develop early identification system for high-risk movers",
+          "lastUpdated": "2026-09-01"
         },
         {
           "id": 5,
           "name": "FM Flex Goal",
           "thresholds": {
-            "superGreen": "FM flex goal defined and approved by RGNL by AUG 15. Approved Super Green goal met by EOQ.",
-            "green": "FM flex goal defined and approved by RGNL by AUG 30. Approved Green goal met by EOQ.",
-            "red": "Flex goal undefined by AUG 30 or approved Green goal not met."
+            "superGreen": ">47 praises",
+            "green": "36+ praises (20-47 range)",
+            "red": "<20 praises"
           },
           "status": "green",
-          "currentValue": "Praise -- 5 logged so far this quarter",
-          "notes": "Tabi chose Praise as flex goal. Green=36, Super Green=45-48 (per Cameron/praise board). 5 logged QTD. Must define exact red/green/SG lines by 8/21. Missed SG define-by deadline (8/15) but goal is chosen.",
-          "nextAction": "Define red/green/SG lines and submit to Mike by 8/21",
-          "lastUpdated": "2026-08-18"
+          "currentValue": "Green -- focusing on 3+ praises per week, aiming SG",
+          "notes": "Tabi self-report 9/1: Focus on at least 3 praises every week. Self-assesses Green, aiming for Super Green. Definitions given: SG >47, G 36+, R <20. Note: gap between thresholds needs clarification (what is 20-35?).",
+          "nextAction": "Maintain 3+/week praise pace; target SG >47",
+          "lastUpdated": "2026-09-01"
         }
       ],
       "weeklyFocus": [
@@ -374,6 +404,21 @@
               "description": "4 praise submissions",
               "completed": null,
               "notes": "Flex goal = Praise. Green 36, SG 45-48. Currently at 5 QTD."
+            }
+          ]
+        },
+        {
+          "weekOf": "2026-08-31",
+          "items": [
+            {
+              "description": "Develop damage/warning system with BM -- issue first warnings",
+              "completed": null,
+              "notes": "New initiative to formalize damage accountability."
+            },
+            {
+              "description": "Continue 3+ praises per week for flex goal",
+              "completed": null,
+              "notes": "Green currently, aiming for SG (>47)."
             }
           ]
         }
